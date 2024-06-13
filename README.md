@@ -21,7 +21,7 @@ Cette application utilise la méthode Pomodoro, qui se base sur l'usage d'un min
     ```
 2. Accédez au répertoire du projet :
     ```bash
-    cd pomodoro-app
+    cd pomodoroApp
     ```
 3. Installez les dépendances :
     ```bash
