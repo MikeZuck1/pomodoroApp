@@ -46,7 +46,7 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions d'améliora
 
 1. Fork le projet.
 2. Créez votre branche feature (`git checkout -b feature/nouvelle-feature`).
-3. Committez vos changements (`git commit -am 'Ajouter une nouvelle feature'`).
+3. Committez vos changements (`git commit -m 'Ajouter une nouvelle feature'`).
 4. Poussez votre branche (`git push origin feature/nouvelle-feature`).
 5. Ouvrez une Pull Request.
 
