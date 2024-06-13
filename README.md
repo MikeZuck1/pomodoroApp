@@ -52,7 +52,7 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions d'améliora
 
 ## Auteurs
 
-- **Votre Nom** - *Développeur principal* - [Votre profil GitHub](https://github.com/votre-utilisateur)
+- **Mike Batelahoko** - *Développeur logiciel principal* - [MikeZuck1](https://github.com/MikeZuck1)
 
 ## License
 
