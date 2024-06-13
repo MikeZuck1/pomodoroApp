@@ -17,7 +17,7 @@ Cette application utilise la méthode Pomodoro, qui se base sur l'usage d'un min
 
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/votre-utilisateur/pomodoro-app.git
+    git clone https://github.com/MikeZuck1/pomodoroApp.git
     ```
 2. Accédez au répertoire du projet :
     ```bash

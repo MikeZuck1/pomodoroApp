@@ -1,0 +1,8 @@
+/*  
+    la pseudo-classe :root 
+    permet de cibler la racine de l'arbre représentant le document. 
+    Pour un doucument HTML, :root ciblera donc l'élément <html>.
+*/
+:root {
+    --primary-color:primary; 
+}
