@@ -11,7 +11,7 @@
     --color-font: hsla(0, 0% 100%, 0.902);
     --color-shadow: hsl(235, 36%, 35%);
     /* hsl(358, 78%, 69%) */
-}
+} 
 
 * {
     margin: 0;
@@ -19,7 +19,7 @@
     box-sizing: border-box;
 }
 
-html, body {
+html, body { 
     height: 100%;
     background-color: var(--color-primary);
     font-size: 1.6rem;
